@@ -1,0 +1,1 @@
+# TDT4136 - Intro to AI Exercises Fall 2024
